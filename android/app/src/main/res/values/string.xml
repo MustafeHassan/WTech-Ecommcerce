@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WTech</string>
+    <string name="facebook_app_id">1193379144571885</string>
+    <string name="fb_login_protocol_scheme">fb1193379144571885</string>
+    <string name="facebook_client_token">58c157f5a3449ff2290d33430b61a87f</string>
+</resources>

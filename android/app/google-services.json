@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347495944682",
+    "project_id": "wtech-98830",
+    "storage_bucket": "wtech-98830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347495944682:android:808ad1edd18ceda738a293",
+        "android_client_info": {
+          "package_name": "com.example.wtech_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347495944682-bnd6vjo212fckd47n3g2gqesai1qhsrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEJSnv0sEIPWWDdvsK9jzz6DaMfhBEuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347495944682-077ulrv6kn9d70h4dtujp9004qvbi9j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
