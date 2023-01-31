@@ -60,13 +60,9 @@ class OrderRemoteDataSourceImp implements OrderRemoteDataSource {
       required double totalToPay}) async {
     String uid = auth.currentUser!.uid;
     try {
-      await firestore
-          .collection('users')
-          .doc(uid)
-          .collection('orders')
-          .doc(orderId)
-          .set(
+      await firestore.collection('orders').add(
         {
+          'uid': uid,
           'orderId': orderId,
           'orderPlacedDate': orderPlacedDate.millisecondsSinceEpoch,
           'orderStatus': orderStatus,
@@ -220,9 +216,8 @@ class OrderRemoteDataSourceImp implements OrderRemoteDataSource {
     List<OrderModel> orders = [];
     try {
       var querySnapshot = await firestore
-          .collection('users')
-          .doc(uid)
           .collection('orders')
+          .where('uid', isEqualTo: uid)
           .get();
 
       for (var i = 0; i < querySnapshot.docs.length; i++) {
@@ -230,8 +225,6 @@ class OrderRemoteDataSourceImp implements OrderRemoteDataSource {
       }
       return orders;
     } catch (_) {
-      print(_);
-      ;
       throw UnexpectedErrorException();
     }
   }
