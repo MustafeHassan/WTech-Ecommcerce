@@ -1,0 +1,232 @@
+[
+    {
+        "id": "wt255833",
+        "name": "Microsoft - Wireless Mobile Scroll Mouse ",
+        "brand": "Microsoft",
+        "category": "Computer Components",
+        "typeDescription": " Microsoft Wireless Mobile Mouse 3500: Connect this mouse to your PC with the included plug-and-go nano transceiver, so you can enjoy wireless use. BlueTrack Technology allows precise tracking on most surfaces..",
+        "description": "With BlueTrack technology, your mouse works on a variety of surfaces This mouse's blue beam is 4 times larger than a standard laser, and it captures a high-contrast image of whatever surface it's on for precise accuracy. Wireless connectionThis mouse connects to your computer using a plug-and-go nano transceiver. The transceiver can be stored inside the mouse when not in use.Ambidextrous design Can be used comfortably whether you're right- or left-handed. On/off switch Lets you conserve battery power by turning off the mouse when not in use.Battery status indicator Tells you when battery power is low.Compatible with most versions of Windows Works with most PCs.",
+        "imageUrls": [],
+        "price": 14.99,
+        "specification": {
+            "System Requirements": "Windows 10, Windows 8.1",
+            "Maximum Sensitivity": "1000 dots per inch",
+            "Mouse Type": "Standard",
+            "Mouse Power Source": "Battery-powered",
+            "Color": "Black",
+            "Battery Size": "AA"
+        },
+        "averageRating": 4.65,
+        "totalRating": 21,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt720648",
+        "name": "Apple - Magic Mouse ",
+        "brand": "Apple",
+        "category": "Computer Components",
+        "typeDescription": " Magic Mouse is wireless and rechargeable, with an optimized foot design that lets it glide smoothly across your desk.The Multi-Touch surface allows you to perform simple gestures such as swiping between web pages and scrolling through documents. ",
+        "description": " The incredibly long-lasting internal battery will power your Magic Mouse for about a month or more between charges It's ready to go right out of the box and pairs automatically with your Mac, and it includes a woven USB Type-C to Lightning cable that lets you pair and charge by connecting to a USB Type-C port on your Mac",
+        "imageUrls": [],
+        "price": 79.99,
+        "specification": {
+            "System Requirements": "Bluetooth-enabled Mac with OS X 10.11 or later, iPad with iPadOS 13.4 or later",
+            "Maximum Sensitivity": "1000 dots per inch",
+            "Mouse Type": "Standard",
+            "Mouse Power Source": "Battery-powered",
+            "Color": "White",
+            "Battery Size": "AA"
+        },
+        "averageRating": 4.35,
+        "totalRating": 661,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt679380",
+        "name": "Microsoft - Bluetooth Ergonomic Scroll Mouse ",
+        "brand": "Microsoft",
+        "category": "Computer Components",
+        "typeDescription": " Work in comfort all day with our premium wireless ergonomic mouse. Navigate precisely and access your most-used features with three programmable buttons. ",
+        "description": " With BlueTrack technology, your mouse works on a variety of surfaces This mouse's blue beam is four times larger than a standard laser, and it captures a high-contrast image of whatever surface it's on for precise accuracy.Three customizable buttons Add app-specific functions to be more productive.²Machined aluminum scroll wheel Machined aluminum scroll wheel designed for precise navigation.",
+        "imageUrls": [],
+        "price": 29.99,
+        "specification": {
+            "System Requirements": "Microsoft Windows 10 / 8.1",
+            "Maximum Sensitivity": "2400 dots per inch",
+            "Mouse Type": "Standard",
+            "Mouse Power Source": "Battery-powered",
+            "Color": "Glacier",
+            "Battery Size": "AAA"
+        },
+        "averageRating": 3.35,
+        "totalRating": 61,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt128940",
+        "name": "Logitech - MK550 Ergonomic Full-size Wireless Alkaline Wave Keyboard and Mouse Bundle ",
+        "brand": "Logitech",
+        "category": "Computer Components",
+        "typeDescription": "Logitech MK550 Wireless Wave Keyboard and Mouse: Enjoy freedom of motion while working at your PC with this keyboard and mouse that wirelessly connect to your computer from up to 33 feet away. ",
+        "description": "The keyboard features Comfort Wave technology and a cushioned, contoured palm rest, and the mouse features contoured sides and soft rubber grips, so you can comfortably type and input data..",
+        "imageUrls": [],
+        "price": 55.99,
+        "specification": {
+            "Keyboard Technology": "Membrane",
+            "Wireless": "Yes",
+            "Keyboard Features": "ADVANCED 2.4 GHZ WIRELESS CONNECTIVITY, 128-BIT AES ENCRYPTION",
+            "Numeric Keypad": "Yes",
+            "Color": "Black",
+            "System Requirements": "Windows 10, 11 or later"
+        },
+        "averageRating": 2.35,
+        "totalRating": 431,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt622460",
+        "name": "Microsoft - Full-size Bluetooth Mechanical Keyboard and Mouse Bundle",
+        "brand": "Microsoft",
+        "category": "Computer Components",
+        "typeDescription": "Enjoy the solid feel of our sleek, modern keyboard and mouse as you work in Windows and Microsoft 365.* The wireless design pairs seamlessly with your laptop via Bluetooth",
+        "description": "The keyboard features Comfort Wave technology and a cushioned, contoured palm rest, and the mouse features contoured sides and soft rubber grips, so you can comfortably type and input data..",
+        "imageUrls": [],
+        "price": 29.99,
+        "specification": {
+            "Keyboard Technology": "Mechanical",
+            "Wireless": "Yes",
+            "Keyboard Features": "ADVANCED 2.4 GHZ WIRELESS CONNECTIVITY, 128-BIT AES ENCRYPTION",
+            "Numeric Keypad": "Yes",
+            "Color": "Glacier",
+            "System Requirements": "Windows 11/10/8.1"
+        },
+        "averageRating": 4.35,
+        "totalRating": 5531,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt551418",
+        "name": "Razer - Blackwidow V3 Full Size Wired Mechanical Green Clicky Tactile Switch Gaming Keyboard with Chroma RGB Backlighting",
+        "brand": "Razer",
+        "category": "Computer Components",
+        "typeDescription": "FEEL THE DIFFERENCE. The name that started it all returns to reassert its dominance. Feel the difference with the Razer BlackWidow V3—backed by a legacy as the first and most iconic mechanical gaming keyboard, and armed with new, improved features including our world-renowned switches.",
+        "description": "The keyboard features Comfort Wave technology and a cushioned, contoured palm rest, and the mouse features contoured sides and soft rubber grips, so you can comfortably type and input data..",
+        "imageUrls": [],
+        "price": 100.99,
+        "specification": {
+            "Keyboard Technology": "Mechanical",
+            "Wireless": "No",
+            "Keyboard Features": "Razer™ mechanical switches with transparent switch housing, Razer Chroma™ RGB customizable backlighting, cable routing options, gaming mode option, 1000HZ Ultrapooling, ergonomic comfort",
+            "Numeric Keypad": "Yes",
+            "Color": "Glacier",
+            "System Requirements":" Windows, Mac, Linux"
+        },
+        "averageRating": 2.45,
+        "totalRating": 531,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt680912",
+        "name": "Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon",
+        "brand": "Apple",
+        "category": "Computer Components",
+        "typeDescription": "Magic Keyboard is now available with Touch ID, providing fast, easy, and secure authentication for logins and purchases.",
+        "description": "Magic Keyboard with Touch ID and Numeric Keypad delivers a remarkably comfortable and precise typing experience It features an extended layout, with document navigation controls for quick scrolling and full-size arrow keys, which are great for gaming The numeric keypad is also great for spreadsheets and finance applications It’s wireless and rechargeable, with an incredibly long-lasting internal battery that will power your keyboard for about a month or more between charges¹It pairs automatically with your Mac, so you can get to work right awayAnd it includes a woven USB-C to Lightning Cable that lets you pair and charge by connecting to a USB-C port on your Mac¹ Testing conducted by Apple in March and April 2021 using preproduction Magic Keyboard with Touch ID and Numeric Keypad units, firmware, and software paired with preproduction 24-inch iMac systems with Apple M1 chip. Testing consisted of full battery discharge while engaging the device on a paired iMac using automated equipment. Battery life depends on device settings, usage and other factors.",
+        "imageUrls": [],
+        "price": 199.99,
+        "specification": {
+            "Keyboard Technology": "Mechanical",
+            "Wireless": "Yes",
+            "Keyboard Features": "N/A",
+            "Numeric Keypad": "Yes",
+            "Color": "Black",
+            "System Requirements":"Mac with Apple silicon using macOS 11.4 or later"
+        },
+        "averageRating": 3.22,
+        "totalRating": 31,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt952475",
+        "name": "Samsung - 970 EVO Plus 1TB Internal SSD PCIe Gen 3 x4 NVMe",
+        "brand": "Samsung",
+        "category": "Computer Components",
+        "typeDescription": "The ultimate in speed and performance Speed up your computer with this Samsung 970 Evo Plus 1TB internal SSD. It maximizes the potential of NVMe bandwidth for unbeatable computing",
+        "description": "The M.2 interface is capable of delivering read speeds up to 3,500MB/sec. and write speeds up to 3,300MB/sec., so you can finish work faster. Samsung's innovative technology empowers you with the capacity to do more and accomplish more. The 970 EVO Plus provides exceptional endurance powered by the latest V-NAND technology and Samsung's reputation for quality. This Samsung 970 Evo Plus 1TB internal SSD has Dynamic Thermal Guard technology for protection against overheating.",
+        "imageUrls": [],
+        "price": 99.99,
+        "specification": {
+            "Storage Capacity": "1000 gigabytes",
+            "Storage Drive Type": "SSD",
+            "Maximum Data Transfer Rate": "3500 megabytes per second",
+            "Form Factor": "M.2",
+            "Color": "Black",
+            "Interface(s)":"PCIe Gen 3 x4"
+        },
+        "averageRating": 4.22,
+        "totalRating": 3444,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt499234",
+        "name": "WD Blue SA510 1TB Internal SSD SATA",
+        "brand": "WD",
+        "category": "Computer Components",
+        "typeDescription": "Breathe new life into your PC so you can push your work further and grow your creative potential. Designed specifically for professionals, creatives, freelancers, social influencers, and other passionate content creators and editors, the WD Blue SA510 SATA SSD helps boost your PC’s performance so you can be more productive.",
+        "description": "The drive is available in 2.5 or M.2 slots and includes Acronis True Image for Western Digital backup and cyber protection software plus a free three-month Dropbox Professional trial. This fast, reliable SSD helps you boot up faster, cut lag times, and speed up edits and file transfers for a sustainable desktop upgrade—no expensive new PC purchase required.",
+        "imageUrls": [],
+        "price": 79.99,
+        "specification": {
+            "Storage Capacity": "1000 gigabytes",
+            "Storage Drive Type": "SSD",
+            "Maximum Data Transfer Rate": "560 megabytes per second",
+            "Form Factor": "2.5 in.",
+            "Color": "Black",
+            "Interface(s)":"SATA"
+        },
+        "averageRating": 3.88,
+        "totalRating": 44,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt214670",
+        "name": "WD - Easystore 5TB External USB 3.0 Portable Hard Drive",
+        "brand": "WD",
+        "category": "Computer Components",
+        "typeDescription": "Carry and preserve important files wherever you go with this Western Digital easystore portable hard drive. The 5TB capacity offers ample storage space for your files, while the USB interface ensures compatibility",
+        "description": "with a wide range of devices. This Western Digital easystore external hard drive has a compact profile for increased portability, and the included WD Discovery software makes backing up data easy.",
+        "imageUrls": [],
+        "price": 98.99,
+        "specification": {
+            "Storage Capacity": "5000 gigabytes",
+            "Storage Drive Type": "HDD",
+            "Maximum Data Transfer Rate": "N/A",
+            "Form Factor": "2.5 in.",
+            "Color": "Black",
+            "Interface(s)":"Micro-USB Type B"
+        },
+        "averageRating": 3.43,
+        "totalRating": 84,
+        "allReviews": [
+            {}
+        ]
+    }
+]

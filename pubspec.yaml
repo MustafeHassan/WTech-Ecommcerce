@@ -1,0 +1,75 @@
+name: wtech_dashboard
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.1 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.1.1 ## State Management
+  equatable: ^2.0.5 ## Value Comparison
+  shared_preferences: ^2.0.15 # for lacal cache 
+   # Navigator 2.0
+  go_router: ^4.4.1
+  ##  charts
+  syncfusion_flutter_charts: ^20.3.49
+  # Firebase services
+  firebase_auth: ^3.6.2
+  firebase_core: ^1.20.0
+  cloud_firestore: ^3.4.3
+  firebase_storage: ^10.3.4
+  reactive_forms: ^14.1.0 
+  # for rating prodcuts
+  flutter_rating_bar: ^4.0.1
+  # Functional Programmming
+  dartz: ^0.10.1
+    # paths for uploading files
+  path_provider: ^2.0.11
+  # for choosing images from gallery
+  image_picker_web: ^3.0.0+1
+  file_picker:
+  # for date formatting
+  intl: ^0.17.0
+   # lottie animations
+  lottie: ^1.4.2
+
+  ## Serivce locator
+  get_it: ^7.2.0
+  number_pagination: ^0.0.3+2
+
+  number_paginator: ^0.2.2
+  universal_io: ^2.0.4
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  
+
+flutter:
+
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/animations/
+    - assets/icons/
+
+  fonts:
+    - family: Avenir
+      fonts:
+        - asset: assets/fonts/Avenir_Book.ttf
+          weight: 400
+        - asset: assets/fonts/Avenir_Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Avenir_Heavey.ttf
+          weight: 300
+
+
+  

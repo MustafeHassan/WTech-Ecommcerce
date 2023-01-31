@@ -1,0 +1,192 @@
+[
+    {
+        "id": "wt419965",
+        "name": "LG - TONE PLATINUM+ Bluetooth Headset",
+        "brand": "LG",
+        "category": "Headsets",
+        "typeDescription": "Make your phone hands-free with this LG TONE PLATINUM + wireless headset. Its Harman Kardon® PLATINUM sound hybrid speaker unit is professionally tuned for optimal sound",
+        "description": "and it has a dedicated button with Google Assistant push-to-talk service for your convenience. This LG TONE PLATINUM + wireless headset has a Fast Pair feature for easy Bluetooth connection to your phone.",
+        "imageUrls": [],
+        "price":199.99
+        ,
+        "specification": {
+            "Sound Mode": "Yes",
+            "Connection Type": "Wireless",
+            "Built-In Microphone": "Yes",
+            "Controls": "Call, Volume",
+            "Color": "Black",
+            "Maximum Talk Time": "12 Hours "
+        },
+        "averageRating": 4.45,
+        "totalRating": 214,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt832283",
+        "name": "JLab - GO Work Wireless Office Headset",
+        "brand": "JLab",
+        "category": "Headsets",
+        "typeDescription": "The GO Work Wireless On-Ear Headset from JLab will be your new best friend at the office. Featuring 45+ hours of playtime to get you through a full work week and Bluetooth multipoint",
+        "description": "you can connect to 2 devices at once so you can transition from mobile to laptop without tocuhing any settings. The GO Work Headset also features 2 microphones for clear calling, a retractable boom mic with LED quick mute indicator, multi-functional buttons for controls, and 2 EQ settings for Work or Music mode.",
+        "imageUrls": [],
+        "price":39.99
+        ,
+        "specification": {
+            "Sound Mode": "Yes",
+            "Connection Type": "Wireless",
+            "Built-In Microphone": "Yes",
+            "Controls": "Call, Volume",
+            "Color": "Black",
+            "Maximum Talk Time": "5 Hours "
+        },
+        "averageRating": 2.45,
+        "totalRating": 21,
+        "allReviews": [
+            {}
+        ]
+    },
+
+    {
+        "id": "wt158703",
+        "name": "CORSAIR - HS55 STEREO Wired Gaming Headset for PC, PS5, and PS4 with Omni-Directional Microphone -",
+        "brand": "CORSAIR",
+        "category": "Headsets",
+        "typeDescription": "The CORSAIR HS55 STEREO Gaming Headset delivers all-day comfort and quality with memory foam leatherette ear pads and custom-tuned 50mm neodymium audio drivers, without weighing you down thanks to ",
+        "description": " lightweight construction. An omni-directional microphone picks up your voice loud and clear, with a convenient flip-to-mute function for even easier control. A 3.5mm audio connector and an included Y-cable adapter ensures wide compatibility with most devices, including PC, Mac, PS5 with Tempest 3D AudioTech support, PS4, Nintendo Switch, mobile devices, and more. Complete with on-ear volume control for convenient audio adjustments, you can press play on great audio with the HS55 STEREO.",
+        "imageUrls": [],
+        "price":49.99
+        ,
+        "specification": {
+            "Sound Mode": "Stereo",
+            "Connection Type": "Wired",
+            "Built-In Microphone": "Yes",
+            "Controls": "Call, Volume",
+            "Color": "white",
+            "Maximum Talk Time": "5 Hours "
+        },
+        "averageRating": 2.45,
+        "totalRating": 21,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt197283",
+        "name": "Sony - INZONE H9 Wireless Noise Canceling Gaming Headset -",
+        "brand": "Sony",
+        "category": "Headsets",
+        "typeDescription": "Sharpen your senses and prepare for your match. Our INZONE H9 headset immerses you in the zone with 360 Spatial Sound for Gaming and noise cancelling for supercharged hearing and super sharp reflexes. Take performance beyond your best, detecting enemies before they see you.",
+        "description": " lightweight construction. An omni-directional microphone picks up your voice loud and clear, with a convenient flip-to-mute function for even easier control. A 3.5mm audio connector and an included Y-cable adapter ensures wide compatibility with most devices, including PC, Mac, PS5 with Tempest 3D AudioTech support, PS4, Nintendo Switch, mobile devices, and more. Complete with on-ear volume control for convenient audio adjustments, you can press play on great audio with the HS55 STEREO.",
+        "imageUrls": [],
+        "price":299.99,
+        "specification": {
+            "Sound Mode": "Stereo",
+            "Connection Type": "Wireless",
+            "Built-In Microphone": "Yes",
+            "Controls": "Call, Volume",
+            "Color": "Silver",
+            "Maximum Talk Time": "N/A "
+        },
+        "averageRating": 4.2,
+        "totalRating": 561,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt133389",
+        "name": "EPOS - H6PRO Wired Closed Acoustic Gaming Headset  -",
+        "brand": "EPOS",
+        "category": "Headsets",
+        "typeDescription": "The H6PRO offers the performance, control and reliability gamers demand to perform at their best. Its proprietary speakers offer unparalleled detail across the full audio spectrum for maximum accuracy and minimum listening fatigue.",
+        "description": "The lift— to—mute boom arm is long and detachable, allowing varied placement without compromising voice pick up. The headband has variable softness to ensure maximum comfort and a slider with visual indicator for reliable positioning. Memory foam ear pads provide a comfortable and superb acoustic seal while a 2—axis hinge on the ear cup ensures a perfect fit. Designed for any platform with analog wired outputs, the headset will perform optimally with binaural headphone surround sound through the EPOS Gaming Suite with sound cards such as the GSX 3OO.",
+        "imageUrls": [],
+        "price":179.99,
+        "specification": {
+            "Sound Mode": "Stereo",
+            "Connection Type": "Wired",
+            "Built-In Microphone": "Yes",
+            "Controls": "N/A",
+            "Color": "Black",
+            "Maximum Talk Time": "N/A "
+        },
+        "averageRating": 3.2,
+        "totalRating": 61,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt459305",
+        "name": "Razer - Kraken Ultimate Wired THX Spatial Audio Gaming Headset for PC with Chroma RGB Lighting",
+        "brand": "Razer",
+        "category": "Headsets",
+        "typeDescription": "Enjoy clear audio while gaming with this Razer Kraken Ultimate headset. The active noise-canceling microphone ensures crisp sound pickup for easy communication,",
+        "description": "while the lightweight bauxite-aluminum frame offers a flexible fit. This Razer Kraken Ultimate headset uses THX Spatial audio to deliver accurate, realistic sound, and the 50mm drivers produce powerful bass for total immersion in your favorite games.",
+        "imageUrls": [],
+        "price":64.99,
+        "specification": {
+            "Sound Mode": "Stereo",
+            "Connection Type": "Wired",
+            "Built-In Microphone": "Yes",
+            "Controls": "N/A",
+            "Color": "Classic Black",
+            "Maximum Talk Time": "N/A "
+        },
+        "averageRating": 4.2,
+        "totalRating": 618,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt923400",
+        "name": "Razer - BlackShark V2 Pro Wireless THX Spatial Audio Gaming Headset for PC, PS5, PS4, Switch, Xbox X|S, and Xbox One",
+        "brand": "Razer",
+        "category": "Headsets",
+        "typeDescription": "Enjoy clear audio while gaming with this Razer Kraken Ultimate headset. The active noise-canceling microphone ensures crisp sound pickup for easy communication,",
+        "description": "If esports is your calling, answer it with our best vocal clarity headset—fitted with titanium-coated drivers and a pro-grade headset mic. Powered by Razer HyperSpeed wireless technology, it’s time to get tournament-ready with this triple threat of amazing audio, mic clarity and sound isolation..",
+        "imageUrls": [],
+        "price":142.99,
+        "specification": {
+            "Sound Mode": "Stereo",
+            "Connection Type": "Wired - Wireless",
+            "Built-In Microphone": "Yes",
+            "Controls": "N/A",
+            "Color": " Black",
+            "Maximum Talk Time": "N/A "
+        },
+        "averageRating": 4.88,
+        "totalRating": 18,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt476933",
+        "name": "HyperX - Cloud II Pro Wired 7.1 Surround Sound Gaming Headset",
+        "brand": "HyperX",
+        "category": "Headsets",
+        "typeDescription": "Plan out strategies with your allies using this HyperX Cloud II gaming headset, which features 53 mm drivers and a condenser microphone for clear communication. The audio control box includes a built-in DSP sound card.",
+        "description": "If esports is your calling, answer it with our best vocal clarity headset—fitted with titanium-coated drivers and a pro-grade headset mic. Powered by Razer HyperSpeed wireless technology, it’s time to get tournament-ready with this triple threat of amazing audio, mic clarity and sound isolation..",
+        "imageUrls": [],
+        "price":69.99,
+        "specification": {
+            "Sound Mode": "Stereo",
+            "Connection Type": "Wired",
+            "Built-In Microphone": "Yes",
+            "Controls": "N/A",
+            "Color": " Red",
+            "Maximum Talk Time": "N/A "
+        },
+        "averageRating": 3.88,
+        "totalRating": 178,
+        "allReviews": [
+            {}
+        ]
+    }
+
+
+]

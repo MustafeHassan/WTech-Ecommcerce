@@ -1,0 +1,256 @@
+[
+    {
+        "id": "wt271861",
+        "name": "LG - 26.2 Cu. Ft. French Door Smart Refrigerator with Dual Ice Maker",
+        "brand": "LG",
+        "category": "Home Applince",
+        "typeDescription": "Now you can keep your refrigerator organized instead of just wishing you could. With 26 cubic feet to work with, you get lots of great space and two ice makers to keep plenty of ice on hand for the family reunion. Plus, our Smart Cooling technology is designed to help keep all your food fresher, longer.",
+        "description": "Stock-up and store everything you need. With a cavernous 26 cubic feet of space, this LG French Door refrigerator gives you ample space for all of your family’s favorite foods and keeps them conveniently organized and within reach.Dual ice makers, dispensed from the door and located in the freezer compartment, produce large amounts of ice so you never run out. This extra ice storage helps ensure that you have extra ice on hand for those hot summer days or when entertaining large parties.Keep your appliances running smoothly with ThinQ Care, now in the ThinQ app. Get notifications about usage, maintenance, plus early diagnosis right on your phone. ThinQ Care will help you understand your appliance needs, avoid potential problems, and keep your appliance running its best.",
+        "imageUrls": [],
+        "price": 2099.99,
+        "specification": {
+            "Height To Top Of Refrigerator (Without Hinges)": "68 3/8 inches",
+            "Height To Top Of Door Hinge": "69 3/4 inches",
+            "Refrigerator Style": "French Door",
+            "Ice Maker": "Yes",
+            "Color": "Stainless steel",
+            "Total Capacity": "26.2 cubic feet",
+            "Refrigerator Capacity": "17.4 cubic feet",
+            "Freezer Capacity": "8.8 cubic feet"
+        },
+        "averageRating": 4.88,
+        "totalRating": 21,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt512266",
+        "name": "LG - 27 Cu. Ft. Side-by-Side Smart Refrigerator with Craft Ice and InstaView",
+        "brand": "LG",
+        "category": "Home Applince",
+        "typeDescription": "Express your stylish side or let your organized side have it all—either way, capture your best side in LG's side-by-side InstaView refrigerator with Craft Ice. ",
+        "description": "The modern exterior includes flat doors, discreet pocket handles and a seamless, edge-to-edge InstaView glass panel. Just knock twice, take a look and see the possibilities. An organizer’s dream, you can stock up for the week and store it all in easy sight and with easy access to all 27 cu. ft. of space. Then, take your entertaining to the next level with LG's exclusive slow-melting Craft Ice for better-tasting drinks from cocktails to smoothies.",
+        "imageUrls": [],
+        "price": 1999.99,
+        "specification": {
+            "Height To Top Of Refrigerator (Without Hinges)": "68 7/8 inches",
+            "Height To Top Of Door Hinge": "70 1/2 inches",
+            "Refrigerator Style": "Side-by-Side",
+            "Ice Maker": "Yes",
+            "Color": "Stainless steel",
+            "Total Capacity": "27.1 cubic feet",
+            "Refrigerator Capacity": "17.5 cubic feet",
+            "Freezer Capacity": "9.6 cubic feet"
+        },
+        "averageRating": 3.88,
+        "totalRating": 211,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt595284",
+        "name": "Samsung - 6.0 cu. ft. Total Capacity Smart Dial Washer with FlexWash™ and Super Speed Wash ",
+        "brand": "Samsung",
+        "category": "Home Applince",
+        "typeDescription": "Samsung's new Smart Dial Washer with FlexWash™ lets you wash two separate loads at the same time or independently with two washers in the same unit. It uses AI power to learn and recommend your favorite wash cycles, has a large 6.0 cu. ft. total capacity, and can wash a full load of laundry with full performance in just 28 minutes with Super Speed Wash. ",
+        "description": "With two individually controlled washers in one, you can wash separate loads at the same time or independently, and wash each load with different cycles, settings, and options to keep all your clothing and fabric types clean and in great condition.Samsung’s simple to use, AI Powered Smart Dial learns and recommends your favorite wash cycles, automatically sets the right dry cycle based on your wash cycle selection, and allows you to customize your cycle list and change the displayed language.Wash a full load of laundry with full performance in just 28 minutes and, with an added Super Speed Dryer, achieve a complete wash and dry in under an hour.¹",
+        "imageUrls": [],
+        "price": 1299.99,
+        "specification": {
+            "Capacity": "5 cubic feet",
+            "Steam Function": "Yes",
+            "Refrigerator Style": "Side-by-Side",
+            "Washer Load Type": "Front load",
+            "Color": "Black",
+            "App-Controlled Features": "Smart Things, Google Assistant, Amazon Alexa",
+            "Maximum Spin Speed": "1300 revolutions per minute",
+            "Number of Wash/Rinse Cycles": "24"
+        },
+        "averageRating": 3.88,
+        "totalRating": 211,
+        "allReviews": [
+            {}
+        ]
+    },
+
+    {
+        "id": "wt611815",
+        "name": "Samsung - 4.5 cu. ft. Large Capacity Smart Front Load Washer with Super Speed Wash",
+        "brand": "Samsung",
+        "category": "Home Applince",
+        "typeDescription": "Samsung’s new 4.5 cu. ft. large capacity Front Load Washer features Super Speed Wash, so you can wash full loads with full performance in just 28 minutes, and has built-in Wi-Fi so you can receive end of cycle alerts and remotely start, stop, and schedule laundry right from your smartphone.",
+        "description": "With two individually controlled washers in one, you can wash separate loads at the same time or independently, and wash each load with different cycles, settings, and options to keep all your clothing and fabric types clean and in great condition.Samsung’s simple to use, AI Powered Smart Dial learns and recommends your favorite wash cycles, automatically sets the right dry cycle based on your wash cycle selection, and allows you to customize your cycle list and change the displayed language.Wash a full load of laundry with full performance in just 28 minutes and, with an added Super Speed Dryer, achieve a complete wash and dry in under an hour.¹",
+        "imageUrls": [],
+        "price": 769.99 ,
+        "specification": {
+            "Capacity": "4 cubic feet",
+            "Steam Function": "Yes",
+            "Refrigerator Style": "Side-by-Side",
+            "Washer Load Type": "Front load",
+            "Color": "Champagne",
+            "App-Controlled Features": "N/A",
+            "Maximum Spin Speed": "1200 revolutions per minute",
+            "Number of Wash/Rinse Cycles": "N/A"
+        },
+        "averageRating": 3.3,
+        "totalRating": 11,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt943854",
+        "name": "Keurig - K-Elite Single Serve K-Cup Pod Coffee Maker",
+        "brand": "Keurig",
+        "category": "Home Applince",
+        "typeDescription": "Make a cup of coffee in less than two minutes with this sleek, brushed-metal Keurig K-Elite Single Serve Coffee Maker.",
+        "description": "Five brew-size selections let you choose how much to make, while Strong brew and Iced options mean you can enjoy a bold morning cup or a refreshing afternoon beverage with the touch of a button. This Keurig K-Elite coffee maker shuts off two hours after its last brew to ensure safety and energy savings.¹",
+        "imageUrls": [],
+        "price": 189.99 ,
+        "specification": {
+            "Clock/Timer": "No",
+            "Coffee Preparation Method": "Pod",
+            "Single or Multi Serve": "Single serve",
+            "Filter Type": "Permanent",
+            "Color": "Brushed Silver",
+            "Coffee Type Used": "Grounds",
+            "Programmable": "Yes",
+            "Pod Type": "K-Cup/single serve pods"
+        },
+        "averageRating": 4.3,
+        "totalRating": 1100,
+        "allReviews": [
+            {}
+        ]
+    },
+
+    {
+        "id": "wt895566",
+        "name": "Cuisinart - PerfectTemp 14 Cup Coffeemaker",
+        "brand": "Cuisinart",
+        "category": "Home Applince",
+        "typeDescription": "Turn up the flavor and the temperature on your coffee with the Cuisinart 14 Cup Programmable Coffeemaker! Using our cutting edge coffee technology",
+        "description": " the 14 Cup Programmable Coffeemaker can give you hotter coffee without sacrificing taste. Choose a regular or bold flavor profile and set the brew-time up to 24 hours ahead so your next cup is ready when you are. The backlit LCD is easy-to-read, a ready tone can be turned on or off, and an indicator light signals when it’s time to decalcify.",
+        "imageUrls": [],
+        "price": 79.99 ,
+        "specification": {
+            "Clock/Timer": "Yes",
+            "Coffee Preparation Method": "Drip",
+            "Single or Multi Serve": "Multi serve",
+            "Filter Type": "Permanent",
+            "Color": "Silver",
+            "Coffee Type Used": "Grounds",
+            "Programmable": "Yes",
+            "Pod Type": "N/A"
+        },
+        "averageRating": 2.3,
+        "totalRating": 110,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt896709",
+        "name": "BISSELL - TurboClean DualPro Pet Carpet Cleaner (3067)",
+        "brand": "BISSELL",
+        "category": "Home Applince",
+        "typeDescription": "Pet messes shouldn’t be a big deal, and with BISSELL TurboClean DualPro Pet carpet cleaner, they’re not! It works on carpet, upholstery and all those hard-to-reach places your pets like to go",
+        "description": "We gave it a Four-Row DeepReach PowerBrush with extra-long bristles that, when used with the included BISSELL PRO MAX Clean & Protect formula, extracts embedded dirt to outclean the competition.* For those harder-to-reach messes on the couch or stairs, simply attach the 3” Tough Stain Tool to the 8-foot hose and deep clean all around your home. And if you’ve got an extra stinky mess on your hands, use the included BISSELL Pet Stain & Odor + Antibacterial Formula to eliminate 90% of odorcausing bacteria. In Express Clean Mode, in 45 minutes or less your carpets will be dry!** And thanks to the easy-to-remove nozzle and tanks, you'll enjoy easy cleanup after the clean up. Plus, this machine doesn’t just clean up after pets,",
+        "imageUrls": [],
+        "price": 164.79 ,
+        "specification": {
+            "Cleaning Path Width": "11 inches",
+            "Continuous Steam": "No",
+            "Retractable Cord": "No",
+            "Cord Storage Type": "Cord wrap",
+            "Color": "Cobalt Blue",
+            "Clean Water Tank Capacity": "160 ounces",
+            "Voltage": "110 volts",
+            "Auto Shut-Off": "No"
+        },
+        "averageRating": 3.67,
+        "totalRating": 55,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt181852",
+        "name": "BISSELL - Little Green ProHeat Corded Handheld Deep Cleaner ",
+        "brand": "BISSELL",
+        "category": "Home Applince",
+        "typeDescription": "Not every mess calls for a full-size carpet cleaning machine. BISSELL® Little Green® ProHeat® portable deep cleaner is a lightweight and compact machine that permanently removes tough spots and stains with the power of OXY",
+        "description": "It’s engineered with Heatwave Technology® to help maintain consistent water temperature while cleaning carpets, upholstery, stairs, area rugs, auto interiors, or any other soft surface where stains can occur. It also comes with three specialized tools, including a 3” Tough Stain Tool, 3-IN-1 Stair Tool and a HydroRinse™ Self-Cleaning Tool, as well as a trial-size bottle of our PRO OXY Spot and Stain formula. And this portable deep cleaner doesn’t just clean up after pets, it helps save them! BISSELL proudly supports BISSELL Pet Foundation® and its mission to help save homeless pets. When you buy a BISSELL product, you help save pets, too. We’re proud to design products that help make pet messes, odors and pet homelessness disappear.",
+        "imageUrls": [],
+        "price": 133.89 ,
+        "specification": {
+            "Cleaning Path Width": "3 inches",
+            "Continuous Steam": "No",
+            "Retractable Cord": "No",
+            "Cord Storage Type": "Cord wrap",
+            "Color": "Titanium With Chacha Lime Accents",
+            "Clean Water Tank Capacity": "N/A",
+            "Voltage": "120 volts",
+            "Auto Shut-Off": "N/A"
+        },
+        "averageRating": 4.67,
+        "totalRating": 555,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt901754",
+        "name": "Breville - Juice Fountain® Cold Electric Juicer",
+        "brand": "Breville",
+        "category": "Home Applince",
+        "typeDescription": "The Breville Juice Fountain cold electric juicer is powerful and efficient. The 850W, two-speed motor generates up to 13,000 rpm, processing even the toughest fruits and vegetables in less than a second. The Breville Juice Fountain cold electric juicer features cold spin technology that lets you make fresh, healthy juice full of vitamins and minerals.",
+        "description": "Two speeds juice a variety of produceUse the slow speed to juice soft fruits and vegetables, such as peaches, strawberries, oranges and kale. The higher speed juices items, such as carrots, apples, beets and gingerroot.Durable, dependable blades easily grind skins and rindsMesh filter and blade assembly ensures long-lasting performance, while retaining the many micro-nutrients in fruit and vegetable peels.",
+        "imageUrls": [],
+        "price": 199.95 ,
+        "specification": {
+            "Detachable Pulp Collector": "Yes",
+            "Locking Lid": "Yes",
+            "Number Of Speed Settings": "2",
+            "Maximum Speed": "6500 revolutions per minute",
+            "Minimum Speed": "1300 revolutions per minute",
+            "Color": "Silver",
+            "Capacity": "70 ounces",
+            "Control Type": "Switch"
+        },
+        "averageRating": 4.27,
+        "totalRating": 1115,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt462159",
+        "name": "Oster - Pro 500 3-Speed Blender",
+        "brand": "Oster",
+        "category": "Home Applince",
+        "typeDescription": "Make fantastic frappes, smoothies and milkshakes with this Oster Pro 500 brushed nickelblender. Seven speed settings offer precise control to ensure your creations achieve the desired consistency, and the included Boroclass glass jar holds up to 6 cups. Dual Direction technology lets the blades on this Oster Pro 500 brushed nickel blender spin both ways for more precise results.",
+        "description": "Two speeds juice a variety of produceUse the slow speed to juice soft fruits and vegetables, such as peaches, strawberries, oranges and kale. The higher speed juices items, such as carrots, apples, beets and gingerroot.Durable, dependable blades easily grind skins and rindsMesh filter and blade assembly ensures long-lasting performance, while retaining the many micro-nutrients in fruit and vegetable peels.",
+        "imageUrls": [],
+        "price": 64.99 ,
+        "specification": {
+            "Detachable Pulp Collector": "Yes",
+            "Locking Lid": "N/A",
+            "Number Of Speed Settings": "3",
+            "Maximum Speed": "600 revolutions per minute",
+            "Minimum Speed": "1200 revolutions per minute",
+            "Color": "Brushed Nickel",
+            "Capacity": "N/A",
+            "Control Type": "Other"
+        },
+        "averageRating": 2.27,
+        "totalRating": 45,
+        "allReviews": [
+            {}
+        ]
+    }
+
+ 
+]

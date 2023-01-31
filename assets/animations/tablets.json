@@ -1,0 +1,208 @@
+[
+    {
+        "id": "wt51474859",
+        "name": "Apple - 10.2-Inch iPad (Latest Model) with Wi-Fi",
+        "brand": "Apple",
+        "category": "Tablets",
+        "typeDescription": "Powerful. Easy to use. Versatile. The new iPad has a beautiful 10.2-inch Retina display, powerful A13 Bionic chip, an Ultra Wide front camera with Center Stage, and works with Apple Pencil and the Smart Keyboard.¹ iPad lets you do more, more easily. All for an incredible value.",
+        "description": " Gorgeous 10.2-inch Retina display with True Tone A13 Bionic chip with Neural Engine  8MP Wide back camera, 12MP Ultra Wide front camera with Center Stage  Up to 256GB storage Stereo speakers Touch ID for secure authentication and Apple Pay 802.11ac Wi-Fi Up to 10 hours of battery life² Lightning connector for charging and accessories Works with Apple Pencil (1st generation) and Smart Keyboard¹ iPadOS 15 is uniquely powerful, easy to use, and designed for the versatility of iPad Apps are available on the App Store. Title availability is subject to change.Accessories are sold separately. Compatibility varies by generation.",
+        "imageUrls": [],
+        "price": 169.00,
+        "specification": {
+            "Screen Size:": "10.2 inches",
+            "Processor Model": "A13 Bionic chip with 64-bit architecture, Neural Engine",
+            "Total Storage Capacity": "64 gigabytes",
+            "Operating System": "Apple iPadOS",
+            "Color": "Space Gray",
+            "System Memory (RAM)": "3 gigabytes"
+        },
+        "averageRating": 4.0,
+        "totalRating": 421,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt77377291",
+        "name": "Apple - 10.9-Inch iPad Air - Latest Model - (5th Generation) with Wi-Fi",
+        "brand": "Apple",
+        "category": "Tablets",
+        "typeDescription": "iPad Air. With an immersive 10.9-inch Liquid Retina display.¹ The breakthrough Apple M1 chip delivers faster performance, making iPad Air a creative and mobile gaming powerhouse",
+        "description": " Featuring Touch ID, advanced cameras, blazing-fast 5G² and Wi-Fi 6, USB-C, and support for Magic Keyboard and Apple Pencil (2nd generation).³ and Smart Keyboard¹ iPadOS 15 is uniquely powerful, easy to use, and designed for the versatility of iPad Apps are available on the App Store. Title availability is subject to change.Accessories are sold separately. Compatibility varies by generation.",
+        "imageUrls": [],
+        "price": 599.99,
+        "specification": {
+            "Screen Size:": "10.9 inches",
+            "Processor Model": "M1 chip with Neural Engine",
+            "Total Storage Capacity": "64 gigabytes",
+            "Operating System": "Apple iPadOS",
+            "Color": "White",
+            "System Memory (RAM)": "8 gigabytes"
+        },
+        "averageRating": 4.4,
+        "totalRating": 41,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt39211783",
+        "name": "Apple - 12.9-Inch iPad Pro (Latest Model) with Wi-Fi + Cellular - 256GB (Unlocked)",
+        "brand": "Apple",
+        "category": "Tablets",
+        "typeDescription": "iPad Pro features the powerful Apple M1 chip for next-level performance and all-day battery life.³ An immersive 12.9-inch Liquid Retina XDR display for viewing and editing HDR photos and videos",
+        "description": "¹ 5G cellular models for blazing speeds away from Wi-Fi.² And a front camera with Center Stage keeps you in frame automatically during video calls. iPad Pro has pro cameras and a LiDAR Scanner for stunning photos, videos, and immersive AR. Thunderbolt for connecting to high-performance accessories. And you can add Apple Pencil for note-taking, drawing, and marking up documents, and the Magic Keyboard for a responsive typing experience and trackpad.⁴",
+        "imageUrls": [],
+        "price": 1399.99,
+        "specification": {
+            "Screen Size:": "12.9 inches",
+            "Processor Model": "Apple M1 chip, 16-core Neural Engine",
+            "Total Storage Capacity": "256 gigabytes",
+            "Operating System": "Apple iPadOS",
+            "Color": "Space Gray",
+            "System Memory (RAM)": "8 gigabytes"
+        },
+        "averageRating": 4.2,
+        "totalRating": 3341,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt51227608",
+        "name": "Microsoft - Surface Pro 7+ - 12.3” Touch Screen –",
+        "brand": "Microsoft",
+        "category": "Tablets",
+        "typeDescription": "Classic Surface Pro 2-in-1 design meets high-speed performance, giving you premium laptop power, a powerful tablet, or portable digital canvas designed to light up the best of Windows 11.",
+        "description": "You’re in control, with the fast, reliable 11th Gen Intel Core performance you need, front and rear-facing HD cameras and Studio Mics for crystal-clear video calls, and compatibility across generations of accessories, Type Covers, and more with both USB-C and USB-A ports, plus a MicroSD slot. Adjust the Kickstand, add a Type Cover,* and do more of what you love — all at our best value for a Surface Pro powered by Intel.",
+        "imageUrls": [],
+        "price": 700.99,
+        "specification": {
+            "Screen Size:": "12.3 inches",
+            "Processor Model": "Intel 11th Generation Core i5",
+            "Total Storage Capacity": "128 gigabytes",
+            "Operating System": "Windows 11 Home",
+            "Color": "Platinum",
+            "System Memory (RAM)": "8 gigabytes"
+        },
+        "averageRating": 3.2,
+        "totalRating": 881,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt13471767",
+        "name": "Microsoft - Surface Pro 8 – 13” Touch Screen",
+        "brand": "Microsoft",
+        "category": "Tablets",
+        "typeDescription": " Unlock more possibilities than ever with the Pro designed for a Pro like you. The first consumer laptop-to-tablet PC designed on the Intel Evo platform⁹ and designed to light up the best of Windows 11,",
+        "description": "Surface Pro 8 combines the power of a laptop with the flexibility of a tablet, and every angle in between. Do great things with a larger 13” touchscreen, faster connections with Thunderbolt 4 ports, and extra speed when you need it.",
+        "imageUrls": [],
+        "price": 969.00,
+        "specification": {
+            "Screen Size:": "13 inches",
+            "Processor Model": "Intel 11th Gen Core i5-1135G7",
+            "Total Storage Capacity": "256 gigabytes",
+            "Operating System": "Windows 11 Home",
+            "Color": "Graphite",
+            "System Memory (RAM)": "8 gigabytes"
+        },
+        "averageRating": 3.88,
+        "totalRating": 81,
+        "allReviews": [
+            {}
+        ]
+    }, {
+        "id": "wt37453055",
+        "name": "Samsung - Galaxy Tab A7 Lite 8.7",
+        "brand": "Samsung",
+        "category": "Tablets",
+        "typeDescription": "Meet the device your whole family will love: Samsung Galaxy Tab A7 Lite, the tablet that's made to be shared. With its compact 8.7 screen, Galaxy Tab A7 Lite is perfectly sized for entertainment on the go. Its sturdy metal frame is built to be brought along from the living room to your beach vacation",
+        "description": "or wherever you want to take it. Galaxy Tab A7 Lite comes with access to hours of ad-free YouTube Premium and Samsung TV at no extra charge so you can keep the family happy without annoying interruptions. Plus, with a powerful processor for fast streaming and plenty of storage for your favorite files, Galaxy Tab A7 Lite simplifies entertainment needs for everyone under your roof.",
+        "imageUrls": [],
+        "price": 199.99,
+        "specification": {
+            "Screen Size:": "8.7 inches",
+            "Processor Model": "MediaTek MT8768T",
+            "Total Storage Capacity": "64 gigabytes",
+            "Operating System": "Android 11",
+            "Color": "Dark Gray",
+            "System Memory (RAM)": "4 gigabytes"
+        },
+        "averageRating": 4.88,
+        "totalRating": 331,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt72490084",
+        "name": "Samsung - Galaxy Tab S7 Plus",
+        "brand": "Samsung",
+        "category": "Tablets",
+        "typeDescription": "With the power of a PC and the mobility of a tablet, the Samsung Galaxy Tab S7+ Wi-Fi is your secret weapon for getting more done—wherever you are. Enjoy the advantages of a true 2-in-1 device, where an expanded keyboard(1) and built-in memory up to 256GB are backed by a battery that lasts the entire workday(2) for ultimate portability.",
+        "description": "With a redesigned, minimal-lag S Pen that lets you control a presentation with the tap of a finger and an expanded edge-to- edge screen(3) for better streaming, gaming and video chatting, the Galaxy Tab S7+ Wi-Fi simplifies life, work and play. **(1) Keyboard sold separately. **(2) Battery life may vary depending on network environment, usage patterns and other factors. **(3) S7+ 12.4” screen is a sAMOLEDTM screen.",
+        "imageUrls": [],
+        "price": 929.99,
+        "specification": {
+            "Screen Size:": "12.4 inches",
+            "Processor Model": "Qualcomm SDM865 Pro",
+            "Total Storage Capacity": "256 gigabytes",
+            "Operating System": "Android 10",
+            "Color": "Mystic Black",
+            "System Memory (RAM)": "8 gigabytes"
+        },
+        "averageRating": 4.46,
+        "totalRating": 31,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt47806622",
+        "name": "Samsung - Galaxy Tab S8 Ultra - 14.6 512 GB - Wi-Fi - with S-Pen",
+        "brand": "Samsung",
+        "category": "Tablets",
+        "typeDescription": "Live that ultra lifestyle on the ultimate tablet, featuring our largest screen to help you do more..",
+        "description": "With a redesigned, minimal-lag S Pen that lets you control a presentation with the tap of a finger and an expanded edge-to- edge screen(3) for better streaming, gaming and video chatting, the Galaxy Tab S7+ Wi-Fi simplifies life, work and play. **(1) Keyboard sold separately. **(2) Battery life may vary depending on network environment, usage patterns and other factors. **(3) S7+ 12.4” screen is a sAMOLEDTM screen.",
+        "imageUrls": [],
+        "price": 1099.99,
+        "specification": {
+            "Screen Size:": "14.6 inches",
+            "Processor Model": "Qualcomm Snapdragon 8 Gen 1 (SM8450)",
+            "Total Storage Capacity": "512 gigabytes",
+            "Operating System": "Android 12",
+            "Color": "Graphite",
+            "System Memory (RAM)": "16 gigabytes"
+        },
+        "averageRating": 4.26,
+        "totalRating": 76,
+        "allReviews": [
+            {}
+        ]
+    },
+    {
+        "id": "wt29349685",
+        "name": "Surface Pro X – 13” Touch Screen – Microsoft SQ2",
+        "brand": "Microsoft",
+        "category": "Tablets",
+        "typeDescription": "Meet the totally mobile Pro. Always with you, instantly ready, and designed to light up the best of Windows 11. Keep up anywhere, at any angle, with a detachable Keyboard² with built-in Slim Pen storage and charging³ — plus fast connectivity and all-day battery life, with optional Gigabit LTE.⁴",
+        "description": "You’re in control, with the fast, reliable 11th Gen Intel Core performance you need, front and rear-facing HD cameras and Studio Mics for crystal-clear video calls, and compatibility across generations of accessories, Type Covers, and more with both USB-C and USB-A ports, plus a MicroSD slot. Adjust the Kickstand, add a Type Cover,* and do more of what you love — all at our best value for a Surface Pro powered by Intel.",
+        "imageUrls": [],
+        "price": 1099.99,
+        "specification": {
+            "Screen Size:": "13 inches",
+            "Processor Model": "Microsoft SQ2",
+            "Total Storage Capacity": "512 gigabytes",
+            "Operating System": "Windows 11 Home on ARM",
+            "Color": "Platinum",
+            "System Memory (RAM)": "16 gigabytes"
+        },
+        "averageRating": 3.26,
+        "totalRating": 996,
+        "allReviews": [
+            {}
+        ]
+    }
+]
